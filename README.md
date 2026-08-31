@@ -19,7 +19,7 @@
 
 ---
 
-## ðŸ§‘â€ðŸ’» About Me
+## » About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
@@ -56,7 +56,7 @@ class Sivabalan:
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+##› Tech Stack
 
 **Languages**
 
@@ -100,7 +100,7 @@ class Sivabalan:
 
 ---
 
-## ðŸ“Š GitHub Stats
+##> GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Sivabalan-tech">
@@ -113,7 +113,7 @@ class Sivabalan:
 
 ---
 
-## ðŸ”¥ Streak Stats
+##> Streak Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sivabalan-tech&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
@@ -121,7 +121,7 @@ class Sivabalan:
 
 ---
 
-## ðŸ“ˆ Activity Graph
+##> Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivabalan-tech&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
@@ -129,7 +129,7 @@ class Sivabalan:
 
 ---
 
-## ðŸ† Trophy Wall
+##> Trophy Wall
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sivabalan-tech&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
@@ -137,10 +137,10 @@ class Sivabalan:
 
 ---
 
-## ðŸ’¼ Work Experience
+##> Work Experience
 
 <details>
-  <summary>ðŸ¢ <strong>Edunet Foundation (AICTE | IBM SkillsBuild)</strong> â€” AI & ML Intern &nbsp;|&nbsp; Jan 2026 â€“ Feb 2026 &nbsp;|&nbsp; Remote</summary>
+  <summary><strong>Edunet Foundation (AICTE | IBM SkillsBuild)</strong> AI & ML Intern &nbsp;|&nbsp; Jan 2026 Feb 2026 &nbsp;|&nbsp; Remote</summary>
 
 <br/>
 
@@ -149,15 +149,15 @@ class Sivabalan:
 > ![IBM SkillsBuild](https://img.shields.io/badge/IBM_SkillsBuild-052FAD?style=flat-square&logo=ibm&logoColor=white)
 > ![AI](https://img.shields.io/badge/Generative_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
-- ðŸŽ“ Completed a **6-week AI & ML internship** involving project-based learning, mentor-led technical sessions, and real-world AI implementation tasks.
-- ðŸ¤– Applied machine learning and data analysis concepts to develop AI-driven solutions using **Python and analytical modeling techniques**.
-- ðŸ“š Completed **80+ hours of technical training** through IBM SkillsBuild covering AI, machine learning, and emerging technologies.
-- ðŸ—£ï¸ Presented project outcomes and collaborated in **technical review sessions** to improve solution design and implementation strategies.
+- Completed a **6-week AI & ML internship** involving project-based learning, mentor-led technical sessions, and real-world AI implementation tasks.
+- Applied machine learning and data analysis concepts to develop AI-driven solutions using **Python and analytical modeling techniques**.
+- Completed **80+ hours of technical training** through IBM SkillsBuild covering AI, machine learning, and emerging technologies.
+- Presented project outcomes and collaborated in **technical review sessions** to improve solution design and implementation strategies.
 
 </details>
 
 <details>
-  <summary>ðŸ¢ <strong>Future Interns</strong> â€” Data Science & Analytics Intern &nbsp;|&nbsp; Jul 2025 â€“ Aug 2025 &nbsp;|&nbsp; Remote</summary>
+  <summary><strong>Future Interns</strong> Data Science & Analytics Intern &nbsp;|&nbsp; Jul 2025 Aug 2025 &nbsp;|&nbsp; Remote</summary>
 
 <br/>
 
@@ -166,67 +166,67 @@ class Sivabalan:
 > ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 > ![Data Analytics](https://img.shields.io/badge/Data_Analytics-38BDAE?style=flat-square&logo=databricks&logoColor=white)
 
-- ðŸ“Š Designed **interactive BI dashboards** using Power BI and Google Looker Studio to analyze e-commerce sales performance and customer behavior.
-- ðŸ“‰ Visualized key metrics including **revenue trends, customer insights, and business KPIs** to support data-driven decision-making.
-- âš™ï¸ Automated **reporting workflows** to improve sales trend analysis efficiency and enable faster identification of high-performing products and market patterns.
-- ðŸ” Delivered actionable insights from large datasets to support **strategic business decisions** across multiple product categories.
+- Designed **interactive BI dashboards** using Power BI and Google Looker Studio to analyze e-commerce sales performance and customer behavior.
+- Visualized key metrics including **revenue trends, customer insights, and business KPIs** to support data-driven decision-making.
+- Automated **reporting workflows** to improve sales trend analysis efficiency and enable faster identification of high-performing products and market patterns.
+- Delivered actionable insights from large datasets to support **strategic business decisions** across multiple product categories.
 
 </details>
 
 ---
 
-## ðŸš€ Featured Projects
+##> Featured Projects
 
 <div align="center">
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| ðŸ§  [**NeuraPulse AI**](https://github.com/Sivabalan-tech) | Python Â· Gemini API Â· FAISS Â· NLP Â· RAG Â· ML | AI-powered healthcare assistant using RAG with FAISS vector storage; processed **500+ health log entries**; integrated Gemini Vision for dermatological image analysis; WMA-based wellness forecasting for sleep, mood & energy |
-| ðŸ“š [**Study Buddy**](https://github.com/Sivabalan-tech) | FastAPI Â· JavaScript Â· Tailwind CSS Â· JWT Â· Python Â· SQL | Full-stack AI learning platform with JWT auth, quiz modules, coding practice, and AI communication feedback; real-time progress tracking across multiple study modules |
+| [**NeuraPulse AI**](https://github.com/Sivabalan-tech) | Python Â· Gemini API Â· FAISS Â· NLP Â· RAG Â· ML | AI-powered healthcare assistant using RAG with FAISS vector storage; processed **500+ health log entries**; integrated Gemini Vision for dermatological image analysis; WMA-based wellness forecasting for sleep, mood & energy |
+| [**Study Buddy**](https://github.com/Sivabalan-tech) | FastAPI Â· JavaScript Â· Tailwind CSS Â· JWT Â· Python Â· SQL | Full-stack AI learning platform with JWT auth, quiz modules, coding practice, and AI communication feedback; real-time progress tracking across multiple study modules |
 
 </div>
 
 ---
 
-## ðŸ… Achievements
+##> Achievements
 
 <div align="center">
 
-| ðŸ† | Achievement | Details |
+| | Achievement | Details |
 |----|-------------|---------|
-| ðŸ¤– | **Google AI/ML Virtual Internship** | AICTE-certified â€” Hands-on AI & ML virtual internship by Google |
-| ðŸ“± | **Google Android Developer Virtual Internship** | AICTE-certified â€” Android app development training by Google |
-| ðŸ | **Python Full Stack Developer Internship** | Eduskills â€” End-to-end Python full stack virtual internship |
-| ðŸ“Š | **Power BI Workshop** | Data Visualization & Dashboard Development certification |
-| ðŸ”Œ | **IoT Workshop** | IoT Applications, Sensor Integration & Device Connectivity certification |
-| ðŸŽ“ | **MCA â€“ Generative AI** | CGPA: **9.57 / 10** at SRM Institute of Science & Technology |
-| ðŸ… | **IBM SkillsBuild AI Certification** | **80+ hours** of technical training in AI & Machine Learning |
+| | **Google AI/ML Virtual Internship** | AICTE-certified  Hands-on AI & ML virtual internship by Google |
+| | **Google Android Developer Virtual Internship** | AICTE-certified  Android app development training by Google |
+| | **Python Full Stack Developer Internship** | Eduskills  End-to-end Python full stack virtual internship |
+| | **Power BI Workshop** | Data Visualization & Dashboard Development certification |
+| | **IoT Workshop** | IoT Applications, Sensor Integration & Device Connectivity certification |
+| | **MCA â€“ Generative AI** | CGPA: **9.64 / 10** at SRM Institute of Science & Technology |
+| | **IBM SkillsBuild AI Certification** | **80+ hours** of technical training in AI & Machine Learning |
 
 </div>
 
 ---
 
-## ðŸŽ“ Education
+##> Education
 
 <div align="center">
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| ðŸŽ“ MCA â€“ Generative AI | SRM Institute of Science and Technology, Tamil Nadu | Jun 2024 â€“ May 2026 | **9.57 CGPA** |
-| ðŸŽ“ B.Sc. Computer Science | Sri Ramakrishna Mission Vidyalaya, Tamil Nadu | Jun 2021 â€“ May 2024 | **7.49 CGPA** |
+| MCA  Generative AI | SRM Institute of Science and Technology, Tamil Nadu | Jun 2024 May 2026 | **9.64 CGPA** |
+| B.Sc. Computer Science | Sri Ramakrishna Mission Vidyalaya, Tamil Nadu | Jun 2021 May 2024 | **7.49 CGPA** |
 
 </div>
 
 ---
 
-## ðŸŒ± Currently Learning
+##> Currently Learning
 
 ```
-ðŸ§± LLM Engineering     â†’  Fine-tuning Â· Prompt Engineering Â· LangChain
-â˜ï¸  Cloud & DevOps     â†’  Docker Â· CI/CD Pipelines Â· Cloud Deployment (AWS/GCP)
-ðŸ—„ï¸  Vector Databases   â†’  Pinecone Â· Weaviate Â· Advanced FAISS
-ðŸ”—  AI Frameworks      â†’  LangGraph Â· CrewAI Â· AutoGen
-ðŸ“  System Design      â†’  Scalable Architectures Â· Microservices Â· API Design
+ LLM Engineering       Fine-tuning Â· Prompt Engineering Â· LangChain
+ Cloud & DevOps        Docker Â· CI/CD Pipelines Â· Cloud Deployment (AWS/GCP)
+ Vector Databases      Pinecone Â· Weaviate Â· Advanced FAISS
+ AI Frameworks         LangGraph Â· CrewAI Â· AutoGen
+ System Design         Scalable Architectures Â· Microservices Â· API Design
 ```
 
 ---
