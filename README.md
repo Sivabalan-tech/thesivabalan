@@ -26,25 +26,25 @@
 ```python
 class Sivabalan:
     name        = "Sivabalan S"
-    location    = "Chennai, India ðŸ‡®ðŸ‡³"
-    degree      = "MCA â€“ Generative AI @ SRM IST (CGPA: 9.57)"
+    location    = "Krishnagiri, India"
+    degree      = "MCA-Generative AI @ SRM IST (CGPA: 9.64)"
     email       = "ssivabalan174@gmail.com"
 
     stack = [
         "Python", "Java", "JavaScript",
         "FastAPI", "Tailwind CSS", "SQL",
-        "Generative AI", "RAG", "FAISS",
+        "Generative AI", "RAG","N8N","FAISS",
         "Power BI", "MySQL", "Git"
     ]
 
     currently_learning = [
         "Advanced LLM Fine-tuning",
         "Docker & Cloud Deployment",
-        "LangChain & Vector Databases"
+        "LangGraph & Vector Databases"
     ]
 
     fun_fact = (
-        "I debug in my dreams ðŸŒ™ â€” "
+        "I debug in my dreams ” "
         "and occasionally fix things there too."
     )
 
